@@ -2,4 +2,4 @@
 修改！
 测试添加修改！
 Git is a mutable index called stage!
-Git tracks changes!
+Git tracks changes of files!
